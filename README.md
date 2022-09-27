@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhyuday26
-- 👀 I’m interested in Web Development Web Apps and Python Programming
+- 👀 I’m interested Python Programming
 - 🌱 I’m currently learning Data Structures And Algorithm
 - 💞️ I’m looking to collaborate on ReactJS websites and Pyhton Projects
 - 📫 How to reach me sabhyuday266@gmail.com
